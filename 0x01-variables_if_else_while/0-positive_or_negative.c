@@ -3,11 +3,8 @@
 #include <stdio.h>
 
 /**
- * more headers goes there
- * description - positive and negative intergers
- * betty style doc for function main goes there
- * main - Entry point
- *
+ * my_function - positive and negative intergers
+ * 
  * Return: Always 0 (Success)
  */
 int main(void)
