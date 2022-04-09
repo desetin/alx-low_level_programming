@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* function main - positive and negative intergers */
-/* betty style doc for function main goes there */
+/**
+ * more headers goes there
+ * Function main - positive and negative intergers
+ * betty style doc for function main goes there
+ */
 int main(void)
 {
 	int n;
