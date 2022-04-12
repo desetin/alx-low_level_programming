@@ -9,7 +9,7 @@ int main(void)
 {
 	int ch;
 
-	print_alphabet (ch = 'a'; ch >= 'z'; ch++)
+	print_alphabet (ch = 'a'; ch >= 'z'; ch++);
 	{
 		_putchar(ch);
 	}
