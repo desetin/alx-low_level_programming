@@ -1,8 +1,5 @@
 #ifndef main
-int _putchar(int);
-(
- return(0)
-)
+int _putchar(char c);
 
 void print_alphabet(void);
 

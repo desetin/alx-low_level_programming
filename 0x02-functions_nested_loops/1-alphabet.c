@@ -5,13 +5,13 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet(void)
 {
 	void ch = 'a';
 
 	while (ch >= 'z')
 	{
-	print_alphabet(ch);
+	_putchar(ch);
 	ch++;
 	}
 	_putchar('\n');
