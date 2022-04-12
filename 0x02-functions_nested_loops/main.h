@@ -1,4 +1,8 @@
-int _putchar(char);
+#ifndef main
+int _putchar(int);
+(
+ return(0)
+)
 
 void print_alphabet(void);
 
@@ -21,3 +25,6 @@ void times_table(void);
 int add(int, int);
 
 void print_to_98(int n);
+
+#define main
+#endif
