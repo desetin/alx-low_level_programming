@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 void print_alphabet(void)
 {
-	void ch = 'a';
+	char ch = 'a';
 
-	while (ch >= 'z')
+	while (ch <= 'z')
 	{
 	_putchar(ch);
 	ch++;
