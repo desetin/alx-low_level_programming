@@ -5,7 +5,7 @@
  * @n : is the int that will use for the argument of the function
  * Return: integer value
  */
-int print_last_value(int n)
+int print_last_digit(int n)
 {
 	int last;
 
